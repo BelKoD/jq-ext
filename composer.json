@@ -1,0 +1,23 @@
+{
+    "name": "belkod/jq-ext",
+    "description": "jQuery modal for Yii framework.",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "jQuery", "module", "modules", "modal"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Belokopytov Konstantin",
+            "email": "kbelokopytov@gmail.com"
+        }
+    ],
+    "support": {
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "belkod\\jqext\\": ""
+        }
+    }
+}
