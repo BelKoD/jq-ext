@@ -11,6 +11,8 @@
         }
     ],
     "support": {
+        "issues": "https://github.com/BelKoD/jq-ext/issues?state=open",
+        "source": "https://github.com/BelKoD/jq-ext"
     },
     "require": {
         "yiisoft/yii2": "*"
