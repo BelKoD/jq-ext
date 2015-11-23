@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "jQuery", "module", "modules", "modal"],
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Belokopytov Konstantin",
